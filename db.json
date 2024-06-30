@@ -1,0 +1,60 @@
+{
+    "furniture": [
+        {
+            "id": 1,
+            "category": "bedroom",
+            "title": "Minimal Bedroom",
+            "description": "Decor / Architecture",
+            "image": "/bedroom1.jpg"
+        },
+        {
+            "id": 2,
+            "category": "bedroom",
+            "title": "Minimal Bedroom",
+            "description": "Decor / Architecture",
+            "image": "/bedroom2.jpg"
+        },
+        {
+            "id": 3,
+            "category": "kitchen",
+            "title": "Modern Kitchen",
+            "description": "Decor / Architecture",
+            "image": "/kitchen1.jpg"
+        },
+        {
+            "id": 4,
+            "category": "kitchen",
+            "title": "Modern Kitchen",
+            "description": "Decor / Architecture",
+            "image": "/kitchen2.jpg"
+        },
+        {
+            "id": 5,
+            "category": "bathroom",
+            "title": "Elegant Bathroom",
+            "description": "Decor / Architecture",
+            "image": "/bathroom1.jpg"
+        },
+        {
+            "id": 6,
+            "category": "bathroom",
+            "title": "Elegant Bathroom",
+            "description": "Decor / Architecture",
+            "image": "/bathroom2.jpg"
+        },
+        {
+            "id": 7,
+            "category": "living",
+            "title": "Cozy Living Room",
+            "description": "Decor / Architecture",
+            "image": "/living1.jpg"
+        },
+        {
+            "id": 8,
+            "category": "living",
+            "title": "Cozy Living Room",
+            "description": "Decor / Architecture",
+            "image": "/living2.jpg"
+        }
+    ]
+}
